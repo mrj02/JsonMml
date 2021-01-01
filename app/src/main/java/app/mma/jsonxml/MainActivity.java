@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //21
+        //fj
         btn_xmlpp = (Button) findViewById(R.id.btn_xml_pp);
         btn_xmljdom = (Button) findViewById(R.id.btn_xml_jdom);
         btn_json = (Button) findViewById(R.id.btn_json);
